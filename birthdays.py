@@ -12,4 +12,5 @@ while True:
         bday = input()
         birthdays[name] = bday
         print ('Birthday database updated')
+        print ("hello world")
 
